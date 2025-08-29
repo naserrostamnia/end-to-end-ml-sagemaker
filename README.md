@@ -1,4 +1,4 @@
-# Mobile Price Classification using Machine Learning
+# Mobile Price Classification using Machine Learning on AWS SageMaker
 
 Mobile price classification is a popular problem in machine learning, where the objective is to build a predictive model that can categorize mobile phones into different price ranges based on their features and specifications. Such a model helps automate the process of estimating the price category of a mobile device, which is valuable for both consumers and sellers.
 
